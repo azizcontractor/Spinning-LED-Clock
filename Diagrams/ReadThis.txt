@@ -1,0 +1,1 @@
+If you are using PICKit 3 please do not wire RB3 RB4 to anything else. The DB9 is not necessary
